@@ -1,5 +1,4 @@
-# 201617_2nB_ESO
+# 201617_2nA_ESO
 
-Repositori projecte 2n ESO B fet per Sergi Curtu
-
+Repositori projecte 2n ESO A fet per Mohamed Eghribel
 per crar una pàgina web mòbil
